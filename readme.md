@@ -1,5 +1,8 @@
 # Wepabel: Webpack + Babel
 
+📈 **easy es6-7**
+📉 **performance**
+
 ## Intro
 
 _Just useful babel stuff, the easy dev afforded by webpack-dev-server and a terrible name_
