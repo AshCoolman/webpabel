@@ -1,7 +1,7 @@
 # Wepabel: Webpack + Babel
 
-📈 **easy es6-7**
-📉 **performance**
+* 📈 **easy es6-7** (_yay!_)
+* 📉 **performance** (_oh well_)
 
 ## Intro
 
